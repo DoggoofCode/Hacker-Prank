@@ -1,0 +1,57 @@
+body{
+    font-family: monospace;
+    background-color: black;
+    color: rgb(81, 255, 0);
+    text-align: center;
+}
+
+.fancybutton{
+    display: inline-block;
+    background: black;
+    color: rgb(81, 255, 0);
+    padding: 18px;
+    font-size: 18px;
+    font-family: monospace;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    border: 5px solid rgb(81, 255, 0);
+    margin: 20px;
+    text-decoration: none;
+}
+
+.fancybutton:hover{
+    display: inline-block;
+    background: black;
+    color: rgb(81, 255, 0);
+    padding: 18px;
+    font-size: 18px;
+    font-family: monospace;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    border: 5px solid rgb(81, 255, 0);
+    margin: 20px;
+    text-decoration: underline;
+}
+
+input{
+    background: black;
+    color: rgb(81, 255, 0);
+    font-family: monospace;
+    border: 5px solid rgb(81, 255, 0);
+    border-radius: 5px;
+}
+
+.heker-box{
+    padding:6px;
+    background-color: black;
+    width: 500px;
+    margin: auto;
+}
+iframe{
+    margin: 0%;
+    float: right;
+    position: relative;
+    left: 140px;
+}
